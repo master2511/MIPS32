@@ -6,3 +6,5 @@ The word size in memory is 32 bits in size and there are 32 general purpose regi
 The memory size is 32*1024.
 
 simple programs like calculation of GCD to sorting algorithms can be performed on this processor.
+
+I have tried this on the iverilog simulator, it works perfectly, should also work on all other simulator.
